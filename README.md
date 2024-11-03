@@ -58,7 +58,7 @@ This project uses VLSI TSP instances from the University of Waterloo. The instan
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository**:<br>
    git clone
 2. **Compile the C++ program**:
    g++ -o tsp_simulated_annealing tsp_simulated_annealing.cpp
