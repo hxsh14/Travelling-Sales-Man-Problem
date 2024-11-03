@@ -59,7 +59,7 @@ This project uses VLSI TSP instances from the University of Waterloo. The instan
 ## Installation
 
 1. **Clone the repository**:<br>
-   git clone
+   git clone <github link>
 2. **Compile the C++ program**:<br>
    g++ -o tsp_simulated_annealing tsp_simulated_annealing.cpp
 3. **Run the program**:<br>
@@ -69,11 +69,7 @@ This project uses VLSI TSP instances from the University of Waterloo. The instan
 5. **Output Format**:<br>
    Cost: Final achieved cost of the tour.
    Solution: Sequence of cities representing the order of traversal.
-6. **Sample Results**:<br>
-  Instance	Final Cost	Solution (Path of Cities)
-  xqf131.tsp	12345	[1, 5, 3, ..., 1]
-  xqg237.tsp	56789	[2, 4, 6, ..., 2]
-7. **References**:<br>
+6. **References**:<br>
    *Simulated Annealing on Wikipedia*:<br> https://en.wikipedia.org/wiki/Simulated_annealing<br>
    *University of Waterloo TSP Library*:<br> https://www.math.uwaterloo.ca/tsp/vlsi/index.html
 
